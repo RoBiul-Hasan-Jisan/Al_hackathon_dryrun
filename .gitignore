@@ -3,6 +3,6 @@ hackathon-venv
 pytorch_model.bin
 __pycache__
 t1/
-t2/
+
 HardGratitude/
 ModerateSentiment/
